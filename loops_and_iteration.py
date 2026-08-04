@@ -45,7 +45,25 @@ for  i in range (1,101):
 for i in  range (1,101):
   if  i % 5 == 0:
     print(i)
-    
+
+for i in range (1,6)
+    if i == 5:
+        break
+        print(i)
+
+for i in range (1,10)
+    if i == 3:
+        continue
+        print(i)
+
+count = 1
+
+while count <= 5:
+    print(count)
+    count += 1
+
+
+
 
 
 
