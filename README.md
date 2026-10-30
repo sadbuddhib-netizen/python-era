@@ -9,7 +9,7 @@ Welcome to **Python Era** — my learning repository where I practice Python con
 - Strengthen Python fundamentals with practical examples.
 - Improve logical thinking and problem-solving.
 - Practice writing readable, reusable functions.
-- Track my progress as I prepare for data-focused technical roles.
+- Track progress through daily coding practice and projects.
 
 ## 📚 What I'm Practicing
 
@@ -21,12 +21,17 @@ Welcome to **Python Era** — my learning repository where I practice Python con
 | Number problems | Finding even numbers and counting results |
 | Functions with `*args` | Working with multiple inputs |
 | Basic logic | Student pass/fail and distinction results |
+| DSA | Searching, counting, arrays/lists, and interview-style problems |
 
 ## 🗂️ Repository Structure
 
 ```text
 python-era/
-└── functions.py    # Function practice and beginner Python exercises
+├── functions.py          # Python function practice
+└── dsa/
+    ├── README.md         # DSA roadmap and progress checklist
+    ├── linear_search.py  # Search for a target in a list
+    └── count_occurrences.py # Count target occurrences in a list
 ```
 
 ## ▶️ Run the Code
@@ -40,9 +45,11 @@ python-era/
    ```bash
    cd python-era
    ```
-4. Run the practice file:
+4. Run a practice file:
    ```bash
    python functions.py
+   python dsa/linear_search.py
+   python dsa/count_occurrences.py
    ```
 
 Some exercises request input in the terminal, such as student marks.
@@ -53,7 +60,7 @@ I learn by writing code, testing examples, understanding mistakes, and improving
 
 ## 👩‍💻 About Me
 
-I'm an IT graduate building practical programming skills and working toward a career in data analytics and data science.
+I'm an IT graduate building practical programming and problem-solving skills.
 
 - **GitHub:** [sadbuddhib-netizen](https://github.com/sadbuddhib-netizen)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sadbuddhibhaigade/)
