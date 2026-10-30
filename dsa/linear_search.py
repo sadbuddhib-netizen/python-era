@@ -110,11 +110,12 @@ def count_numbers(numbers, target):
 
     for num in numbers:
         if num == target:
-            count =+ 1
-        return count
+            count += 1
+
+    return count
 
 
-numbers = [10, 20, 40, 60, 80]
+numbers = [10, 20, 40, 60, 80, 10]
 target = 10
 result = count_numbers(numbers, target)
 print(result)
